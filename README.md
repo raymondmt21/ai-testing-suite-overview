@@ -1,5 +1,4 @@
-# ai-testing-suite-overview
-# Shopify AI Testing Suite
+# AI Testing Suite Overview
 
 **Chaos Unleashed** | Proprietary tooling (overview only; source code is private)
 
